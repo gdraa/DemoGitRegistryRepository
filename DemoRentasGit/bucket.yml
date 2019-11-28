@@ -1,5 +1,5 @@
 flows:
-  5c29e7e6-ac1b-4229-9561-e5f6b13b2404: {ver: 1, file: Segunda.snapshot, comments: segunda,
-    author: anonymous, created: 1574960193894, flowName: Segunda, flowDesc: Demo}
+  5c29e7e6-ac1b-4229-9561-e5f6b13b2404: {ver: 2, file: Segunda.snapshot, comments: '',
+    author: anonymous, created: 1574961873439, flowName: Segunda, flowDesc: Demo}
 layoutVer: 1
 bucketId: 6aeddb9f-7374-4ad0-8dad-6e241062936f

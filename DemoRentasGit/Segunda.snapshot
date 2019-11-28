@@ -11,8 +11,8 @@
           "backPressureDataSizeThreshold" : "1 GB",
           "backPressureObjectThreshold" : 10000,
           "bends" : [ {
-            "x" : 846.0,
-            "y" : 51.0
+            "x" : 858.0,
+            "y" : 82.0
           } ],
           "componentType" : "CONNECTION",
           "destination" : {
