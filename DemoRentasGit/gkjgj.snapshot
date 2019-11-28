@@ -1,0 +1,29 @@
+{
+  "header" : {
+    "dataModelVersion" : "3"
+  },
+  "content" : {
+    "flowSnapshot" : {
+      "flowContents" : {
+        "comments" : "",
+        "componentType" : "PROCESS_GROUP",
+        "connections" : [ ],
+        "controllerServices" : [ ],
+        "funnels" : [ ],
+        "identifier" : "7206937b-32c5-39d4-adee-dcf2bab1d115",
+        "inputPorts" : [ ],
+        "labels" : [ ],
+        "name" : "dsdfg",
+        "outputPorts" : [ ],
+        "position" : {
+          "x" : 809.0,
+          "y" : 102.0
+        },
+        "processGroups" : [ ],
+        "processors" : [ ],
+        "remoteProcessGroups" : [ ],
+        "variables" : { }
+      }
+    }
+  }
+}
